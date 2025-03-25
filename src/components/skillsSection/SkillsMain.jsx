@@ -1,5 +1,5 @@
 import React from "react";
-import SkillsText from "./skillsText";
+import SkillsText from "./SkillsText";
 import AllSkills from "./AllSkills";
 import AllSkillsSM from "./AllSkillsSM";
 
