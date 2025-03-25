@@ -1,5 +1,5 @@
 import ContactText from "./ContactText";
-import ContactForm from "./contactForm";
+import ContactForm from "./ContactForm";
 
 const ContactMeLeft = () => {
   return (
